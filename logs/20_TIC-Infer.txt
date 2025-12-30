@@ -1,0 +1,7 @@
+[info] Using device: cuda | Number of GPUs: 1
+[info] Set seed to 42
+[info] Save directory: results/20_TIC-Infer
+[info] Dataset size: 5000 # of batches: 20
+[check] matching: 270
+[check] missing : 269
+[check] unexp   : 301
